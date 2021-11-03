@@ -4,7 +4,7 @@ Siema Są to karty sim robione przezemnie od 0 mogą one przypominać karty sim 
 czyli tak to ma wyglądać 
 
 Watykan_Sim -> client -> client.lua
-Watykan_Sim -> server -> server.lua
-Watykan_Sim -> __resources.lua
-Watykan_sim -> config.lua 
+/ Watykan_Sim -> server -> server.lua
+/ Watykan_Sim -> __resources.lua
+/ Watykan_sim -> config.lua 
 :) 
